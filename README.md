@@ -6,4 +6,4 @@ You might also choose to omit certain observations or restructure some of the va
 
 When you are fitting a model you should also be careful about collinearity, as some of these variables may be dependent on each other.
 
-In this data set I would like to conduct modeling and prediction via linear regression model.
+In this data set, I would like to conduct modeling and prediction via linear regression model.
